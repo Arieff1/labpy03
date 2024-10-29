@@ -9,7 +9,11 @@ Kelas : TI,24.A.3
 
 # Latihan 1
 
+# Input
+
 <img src="input1.png">
+
+# Output
 
 <img src="output1.png">
 
