@@ -1,9 +1,9 @@
 # labpy-03
 # Data Diri
 
-Nama : Zizantara Arzeva Cakra Kahana 
+Nama : M. Rafi AL Hakim
 
-NIM : 312410398
+NIM : 312410403
 
 Kelas : TI,24.A.3
 
